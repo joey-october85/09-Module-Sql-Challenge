@@ -25,7 +25,6 @@ Week 09 - SQL
 
 ### 07 - List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 ![Alt text](https://github.com/joey-october85/09-Module-Sql-Challenge/blob/main/EmployeeSQL/Starter_Code/images/Q7_01_Capture.PNG)
-![Alt text](https://github.com/joey-october85/09-Module-Sql-Challenge/blob/main/EmployeeSQL/Starter_Code/images/Q7_02_Capture.PNG)
 
 ### 08 - List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 ![Alt text](https://github.com/joey-october85/09-Module-Sql-Challenge/blob/main/EmployeeSQL/Starter_Code/images/Q8_01_Capture.PNG)
